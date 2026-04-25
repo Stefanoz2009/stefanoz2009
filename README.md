@@ -25,13 +25,20 @@
 ## 🧑‍💻 À propos de moi
 
 ```typescript
-const Stefanoz2009 = {
-  role:       "TypeScript Developer",
-  languages:  ["TypeScript", "JavaScript", "Python"],
-  focus:      ["Clean Code", "Type Safety", "Scalable Apps"],
-  learning:   "Always something new 🚀",
-  contact:    "See below 👇",
-};
+class Developer {
+  readonly name     = "Stefanoz2009";
+  readonly role     = "TypeScript Developer";
+  readonly stack: string[] = ["TypeScript", "JavaScript", "Python"];
+  readonly focus: string[] = ["Clean Code", "Type Safety", "Scalable Apps"];
+
+  greet(): string {
+    return `Hey! I build typed & clean code, always shipping 🚀`;
+  }
+
+  isAvailable(): boolean {
+    return true; // open to collabs ✅
+  }
+}
 ```
 
 ---
@@ -64,7 +71,7 @@ const Stefanoz2009 = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stefanoz2009&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stefanoz2009&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&include_all_commits=true)](https://git.io/streak-stats)
 
 </div>
 
