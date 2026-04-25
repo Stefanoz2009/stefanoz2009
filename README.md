@@ -59,7 +59,7 @@ class Developer {
 
 | | |
 |---|---|
-| **Nom** | [Wynxbot](https://github.com/Stefanoz2009/Wynxbot) |
+| **Nom** | Wynxbot |
 | **Type** | Bot Discord |
 | **Stack** | TypeScript · Node.js · MySQL |
 | **Description** | Un bot Discord développé en TypeScript, propre et typé. |
