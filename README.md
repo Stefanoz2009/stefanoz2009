@@ -36,7 +36,7 @@ class Developer {
   }
 
   isAvailable(): boolean {
-    return true; // open to collabs ✅
+    return true;
   }
 }
 ```
