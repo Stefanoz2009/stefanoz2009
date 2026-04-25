@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00b4d8&height=200&section=header&text=Stefanoz2009&fontSize=60&fontColor=00b4d8&fontAlignY=38&desc=TypeScript%20Developer&descAlignY=58&descSize=20&descColor=8b949e&animation=fadeIn" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -53,6 +51,30 @@ class Developer {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stefanoz2009&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stefanoz2009&theme=github_dark" />
+&nbsp;
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stefanoz2009&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stefanoz2009&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 🚀 Projet Principal
 
 <div align="center">
@@ -83,7 +105,5 @@ class Developer {
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%"/>
-
 </div>
