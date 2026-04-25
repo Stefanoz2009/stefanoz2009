@@ -26,8 +26,8 @@
 
 ```typescript
 class Developer {
-  readonly name     = "Stefanoz2009";
-  readonly role     = "TypeScript Developer";
+  readonly name: string    = "Stefanoz2009";
+  readonly role: string     = "TypeScript Developer";
   readonly stack: string[] = ["TypeScript", "JavaScript", "Python"];
   readonly focus: string[] = ["Clean Code", "Type Safety", "Scalable Apps"];
 
@@ -36,7 +36,7 @@ class Developer {
   }
 
   isAvailable(): boolean {
-    return true; // open to collabs ✅
+    return true; 
   }
 }
 ```
