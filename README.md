@@ -50,9 +50,15 @@ const Stefanoz2009 = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stefanoz2009&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stefanoz2009&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stefanoz2009&theme=github_dark" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanoz2009&layout=compact&theme=github_dark&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stefanoz2009&theme=github_dark" />
 
 </div>
 
@@ -69,8 +75,8 @@ const Stefanoz2009 = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Stefanoz2009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stefanoz2009)
-
-[![Discord](https://img.shields.io/badge/Discord-stefanoz200956-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887723443154456637) 
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-stefanoz200956-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887723443154456637)
 
 </div>
 
