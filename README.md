@@ -36,7 +36,7 @@ class Developer {
   }
 
   isAvailable(): boolean {
-    return true;
+    return true; // open to collabs ✅
   }
 }
 ```
@@ -48,30 +48,6 @@ class Developer {
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,nodejs,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stefanoz2009&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stefanoz2009&theme=github_dark" />
-&nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stefanoz2009&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stefanoz2009&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&include_all_commits=true)](https://git.io/streak-stats)
 
 </div>
 
