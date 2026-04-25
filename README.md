@@ -26,8 +26,8 @@
 
 ```typescript
 class Developer {
-  readonly name: string    = "Stefanoz2009";
-  readonly role: string     = "TypeScript Developer";
+  readonly name:string    = "Stefanoz2009";
+  readonly role:string     = "TypeScript Developer";
   readonly stack: string[] = ["TypeScript", "JavaScript", "Python"];
   readonly focus: string[] = ["Clean Code", "Type Safety", "Scalable Apps"];
 
@@ -47,7 +47,7 @@ class Developer {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,nodejs,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,nodejs,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
 
 </div>
 
