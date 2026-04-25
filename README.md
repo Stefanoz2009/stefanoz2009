@@ -26,7 +26,7 @@
 
 ```typescript
 class Developer {
-  readonly name:string    = "Stefanoz2009";
+  readonly name:string     = "Stefanoz2009";
   readonly role:string     = "TypeScript Developer";
   readonly stack: string[] = ["TypeScript", "JavaScript", "Python"];
   readonly focus: string[] = ["Clean Code", "Type Safety", "Scalable Apps"];
@@ -36,7 +36,7 @@ class Developer {
   }
 
   isAvailable(): boolean {
-    return true; 
+    return true;
   }
 }
 ```
@@ -47,7 +47,24 @@ class Developer {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,nodejs,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,nodejs,git,github,vscode,discord,mysql&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Projet Principal
+
+<div align="center">
+
+| | |
+|---|---|
+| **Nom** | [Wynxbot](https://github.com/Stefanoz2009/Wynxbot) |
+| **Type** | Bot Discord |
+| **Stack** | TypeScript · Node.js · MySQL |
+| **Description** | Un bot Discord développé en TypeScript, propre et typé. |
+
+[![Wynxbot](https://img.shields.io/badge/Wynxbot-Bot%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Stefanoz2009/Wynxbot)
 
 </div>
 
