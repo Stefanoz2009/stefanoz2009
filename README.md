@@ -64,7 +64,7 @@ class Developer {
 | **Stack** | TypeScript · Node.js · MySQL |
 | **Description** | Un bot Discord développé en TypeScript, propre et typé. |
 
-[![Wynxbot](https://img.shields.io/badge/Wynxbot-Bot%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Stefanoz2009/Wynxbot)
+[![Wynxbot](https://img.shields.io/badge/Wynxbot-Bot%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a3Y6VTCTeW)
 
 </div>
 
