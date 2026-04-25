@@ -70,10 +70,7 @@ const Stefanoz2009 = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Stefanoz2009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stefanoz2009)
 
-<!-- Remplace les liens ci-dessous par tes vrais profils -->
-<!-- [![Discord](https://img.shields.io/badge/Discord-ton__pseudo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ton%20Nom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-@ton__pseudo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TON_PSEUDO) -->
+[![Discord](https://img.shields.io/badge/Discord-stefanoz200956-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/887723443154456637) 
 
 </div>
 
